@@ -1,5 +1,5 @@
 cask "veil" do
-  version "0.1.0"
+  version "0.3.0"
   sha256 "PLACEHOLDER_SHA256"
 
   url "https://github.com/neocode24/Veil/releases/download/v#{version}/Veil-#{version}.zip"
