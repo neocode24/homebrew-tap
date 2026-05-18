@@ -1,6 +1,6 @@
 cask "veil" do
-  version "0.6.0"
-  sha256 "ef5b2b6a3ed7523710734d36c160b090dee401852896b52122e1023997b88fb5"
+  version "0.6.1"
+  sha256 "fe0e7bcfec4d3ffe34c01647d9186d7f03d04529e313f8851f086c4cf80a3ec1"
 
   url "https://github.com/neocode24/Veil/releases/download/v#{version}/Veil-v#{version}.zip"
   name "Veil"
